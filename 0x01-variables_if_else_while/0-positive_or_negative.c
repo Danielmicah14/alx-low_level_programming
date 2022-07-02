@@ -4,9 +4,8 @@
 
 /**
  * main - assigns a random number to int n everytime
- * it execute the value
- * and prints it
- * return: Always 0 (success)
+ * it executes, and prints it
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
